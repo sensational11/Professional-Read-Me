@@ -17,7 +17,7 @@ const questions = [
   {
     type: "input",
     message:
-      "List your collaborators, if any, with links to their Github profiles.",
+      "Please provide a table of contents for your app.",
     name: "contents",
   },
   {
@@ -47,13 +47,13 @@ const questions = [
   {
     type: "input",
     message:
-      "List your collaborators, if any, with links to their Github profiles.",
+      "Please provide testing for your application if applicable.",
     name: "tests",
   },
   {
     type: "input",
     message:
-      "List your collaborators, if any, with links to their Github profiles.",
+      "If you woud like to contact me with additional questions.",
     name: "questions",
   },
 ];
