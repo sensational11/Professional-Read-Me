@@ -1,0 +1,28 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "this is for professionalreadme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sensational11/ProfessionalReadMe.git"
+  },
+  "keywords": [
+    "professional",
+    "readme",
+    "repository",
+    "challenge"
+  ],
+  "author": "MNelson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sensational11/ProfessionalReadMe/issues"
+  },
+  "homepage": "https://github.com/sensational11/ProfessionalReadMe#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
