@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sensational11/ProfessionalReadMe.git"
+    "url": "https://github.com/sensational11/Professional-Read-Me"
   },
   "keywords": [
     "professional",
@@ -19,9 +19,9 @@
   "author": "MNelson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sensational11/ProfessionalReadMe/issues"
+    "url": "https://github.com/sensational11/Professional-Read-Me/issues"
   },
-  "homepage": "https://github.com/sensational11/ProfessionalReadMe#readme",
+  "homepage": "https://github.com/sensational11/Professional-Read-Me#readme",
   "dependencies": {
     "inquirer": "^8.2.4"
   }
